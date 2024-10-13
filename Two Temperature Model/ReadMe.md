@@ -8,9 +8,12 @@ The Two Temperature Model (TTM) is a commonly used approach for simulating the t
 
 # Plots Overview:
 
-1. Nickel Surface (Electron vs. Lattice Temperature)
+1. Nickel Surface (Electron vs. Lattice Temperature):
+   
 This plot displays the evolution of electron and lattice temperatures over time for a Nickel surface irradiated by a Gaussian pulse.
 The plot illustrates how the electron temperature rises rapidly due to the energy input from the laser pulse and how the lattice temperature follows after a slight delay as energy is transferred from the electrons to the lattice.
-2. Nickel with Gold Substrate (All Four Temperatures)
+
+2. Nickel with Gold Substrate (All Four Temperatures):
+   
 This plot explores the thermal response of a more complex system, where a Nickel surface is in contact with a Gold substrate.
 The plot shows the temperature evolution of both the electron and lattice systems for Nickel and Gold. It provides insight into the heat transfer dynamics between the two materials and their respective electron and lattice systems.
