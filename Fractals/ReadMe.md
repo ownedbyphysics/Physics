@@ -11,5 +11,7 @@ Zoom and Explore: The code can be easily modified to zoom into specific regions 
 
 # Requirements
 Python 3.x
+
 numpy
+
 matplotlib
