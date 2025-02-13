@@ -9,9 +9,7 @@ Adjustable Iterations: Control the maximum number of iterations to fine-tune the
 Color Mapping: Use Matplotlib's colormaps (viridis, magma, etc.) to create stunning visualizations.
 Zoom and Explore: The code can be easily modified to zoom into specific regions of the set
 
-# Requirements
-Python 3.x
 
-numpy
+📷 Preview
 
-matplotlib
+![image](https://github.com/user-attachments/assets/103d0930-9a3c-4ce9-83df-0a6a8ca11286)
