@@ -11,7 +11,10 @@ This underscores that physical systems can be completely deterministic and yet s
 The shape of the Lorenz attractor itself, when plotted graphically, may also be seen to resemble a butterfly.
 
 At the produced schemas, the different trajectories of 3 lorenzian attractors are illustrated. The divergence is caused by slightly differences in their starting X positions.
-📌 Bonus: While watching the schemas being created you get to listen to relaxing piano music (Can also serve as meditation :D )
+
+📌 Bonus: While watching the schemas being created you get to listen to relaxing piano music (Can also serve as meditation :) )
+
+
 📷 Preview
 
 
