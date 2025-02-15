@@ -9,4 +9,9 @@ This approach provides a practical way to visualize quantum states and their pro
 📷 Preview
 
 
+
+![image](https://github.com/user-attachments/assets/38b0c9fa-c185-4ff5-8928-b7f9eda18ec7)
+
+
+
 ![image](https://github.com/user-attachments/assets/9ecf730a-b679-402c-a3c1-0c83038b5819)
