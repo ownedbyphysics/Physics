@@ -17,3 +17,8 @@ The plot illustrates how the electron temperature rises rapidly due to the energ
    
 This plot explores the thermal response of a more complex system, where a Nickel surface is in contact with a Gold substrate.
 The plot shows the temperature evolution of both the electron and lattice systems for Nickel and Gold. It provides insight into the heat transfer dynamics between the two materials and their respective electron and lattice systems.
+
+📷 Preview
+
+
+![image](https://github.com/user-attachments/assets/c178a2dd-8c0b-4f36-8dcb-2e0def1da5f0)
