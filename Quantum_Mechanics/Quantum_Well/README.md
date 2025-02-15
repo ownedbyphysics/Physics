@@ -7,4 +7,6 @@ To solve Schrödinger’s equation numerically, we discretize space into a grid 
 This approach provides a practical way to visualize quantum states and their probability distributions.
 
 📷 Preview
+
+
 ![image](https://github.com/user-attachments/assets/9ecf730a-b679-402c-a3c1-0c83038b5819)
