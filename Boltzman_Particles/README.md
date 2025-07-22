@@ -11,3 +11,9 @@ Plots a histogram of the simulated particle speeds.
 Overlays the theoretical Maxwell–Boltzmann probability density function (PDF) using the exact analytical expression.
 
 Highlights the effects of temperature on particle speed distribution.
+
+📈 Physics Background
+In a gas at thermal equilibrium, the speed distribution of molecules follows the Maxwell–Boltzmann distribution:
+
+
+<img width="295" height="104" alt="image" src="https://github.com/user-attachments/assets/6e571ba5-f65f-4147-b0f2-b9306127688b" />
