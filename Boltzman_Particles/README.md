@@ -1,10 +1,10 @@
-🎲 Maxwell–Boltzmann Velocity Distribution Simulation
+# 🎲 Maxwell–Boltzmann Velocity Distribution Simulation
 This project simulates the velocity distribution of gas particles in thermal equilibrium and compares the results with the theoretical Maxwell–Boltzmann distribution. It provides a visual and statistical demonstration of the stochastic behavior of particles in an ideal gas.
 
 
 
 
-📌 What it does
+# 📌 What it does
 Simulates 3D velocities of gas molecules (e.g., nitrogen) using random sampling from a Gaussian distribution.
 
 Computes the magnitude of particle speeds from velocity components.
@@ -18,7 +18,7 @@ Highlights the effects of temperature on particle speed distribution.
 
 
 
-📈 Physics Background
+# 📈 Physics Background
 In a gas at thermal equilibrium, the speed distribution of molecules follows the Maxwell–Boltzmann distribution:
 
 
